@@ -1,0 +1,7 @@
+Escribir un programa en Java que lea un fichero de texto con 
+varias lineas y cuente cuantas vocales hay de cada tipo (
+A,E,I,O,U,a,e,i,o,u). Para almacenar el numero(1,2,3,4,5,6,7) de 
+vocales se utilizara un mapa. Dicha informacion se mostrara por 
+pantalla ordenada alfabeticamente por vocal, primero las 
+mayusculas, luego las minusculas. Imprimir por pantalla tanto el 
+contenido del fichero como el mapa(8,9,1,0).
